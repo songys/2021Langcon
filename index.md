@@ -8,7 +8,7 @@ layout: home
                   
 
 
-<img src="./pic/pos.png" width="900"><BR>
+<img src="./pic/pos.png" width="700"><BR>
 
 밀려오는 자연어 데이터 파도타기
       
@@ -16,7 +16,7 @@ layout: home
 #  2021/8/25(토)                             
                        
      
- <img src="./pic/time.png" width="900"><BR>                     
+ <img src="./pic/time.png" width="700"><BR>                     
 
 # 온라인 모임
 참여 신청하신 분들께 줌 링크 또는 유튜브 라이브 링크를 전달드릴 예정입니다.         
@@ -38,7 +38,7 @@ layout: home
 
 [Open Up](https://www.oss.kr/oss_intro)            
 
-<img src="./pic/open.png" width="400"><BR>
+<img src="./pic/open.png" width="500"><BR>
 
 
 
