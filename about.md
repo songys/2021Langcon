@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 발표소개
-permalink: /about/
+permalink: https://songys.github.io/2021LangCon/about/
 ---
 
 
