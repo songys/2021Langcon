@@ -16,8 +16,7 @@
 title: LangCon                       
 email: klanguage1004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  대회 신청 페이지 : https://festa.io/events/198
-baseurl: 'https://songys.github.io/2021LangCon/ # the subpath of your site, e.g. /blog
+baseurl: '2021LangCon'/ # the subpath of your site, e.g. /blog
 url: "https://www.facebook.com/youngsook.song.1" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: songys

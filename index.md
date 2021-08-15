@@ -8,7 +8,7 @@ layout: home
                   
 
 
-<img src="./pic/poster.png" width="900"><BR>
+<img src="./pic/pos.png" width="900"><BR>
 
 밀려오는 자연어 데이터 파도타기
       
