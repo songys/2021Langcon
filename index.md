@@ -10,8 +10,7 @@ layout: home
 
 <img src="./pic/poser.png" width="800"><BR>
 
-밀려오는 자연어 데이터 파도타기
-      
+
 
 #  2021/8/25(토)                             
                        
@@ -38,7 +37,7 @@ layout: home
 
 [Open Up](https://www.oss.kr/oss_intro)            
 
-<img src="./pic/open.png" width="500"><BR>
+<img src="./pic/open.png" width="600"><BR>
 
 
 
