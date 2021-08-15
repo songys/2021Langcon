@@ -8,7 +8,7 @@ layout: home
                   
 
 
-<img src="./pic/poser.png" width="800"><BR>
+<img src="./pic/poster.png" width="800"><BR>
 
 
 
