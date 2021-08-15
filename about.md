@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 
-<img src="./pic/cute.png" width="200"><BR>
+
+![logo](./pic/cute.png)
 
 "제목"을 클릭하시면 발표 자료를 보실 수 있습니다.
        
@@ -14,7 +15,7 @@ permalink: /about/
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |1|스피커|문상환![문상환](./pic/mun.png)|Tokyo Institute of Technology 정보이공학원|한국어 토크나이징의 현재와 미래|발표자료|
 |2|스피커|문지형![문지형](./pic/jh.jpg)|UPSTAGE|Korean Language understanding Evaluation(KLUE) Benchmark|발표 자료|
-|3|스피커|송치성![송치성](./pic/chisong.jpg)|NCSOFT|말로 하는 감정 인식||발표 자료|          
+|3|스피커|송치성![송치성](./pic/chisong.jpg)|NCSOFT|말로 하는 감정 인식|발표 자료|          
 |4|스피커|조원익![조원익](./pic/WarnikChow.jpg)|서울대학교 전기정보공학부|kosp2e – 공개 가능한 한국어 음성 번역 코퍼스 구축기|[발표 자료](./data/kosp2e.pdf)|          
 |5|스피커|김성동![김성동](./pic/sdong.jpg)|NAVER AI|Scalable Dialogue System|발표 자료|            
 |6|스피커|박성준![박성준](./pic/sjun.png)|KAIST 전산학부|Natural Language Processing for Computational Psychotherapic Applications|발표 자료|        
@@ -32,7 +33,7 @@ permalink: /about/
 
 
 |:--------:|:-----------------:|:-----------:|
-|이재석![1](./pic/jesouk.jpg)|박신홍![1](./pic/sinhongpark.jpg)|송치성![1](./pic/chisong.jpg)|송영숙![1](./pic/song.jpg|
+|이재석![1](./pic/jesouk.jpg)|박신홍![1](./pic/sinhongpark.jpg)|송치성![1](./pic/chisong.jpg)|송영숙![1](./pic/song.jpg)|
 
 
 
