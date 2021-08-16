@@ -28,7 +28,7 @@ layout: home
 
 [봇봇봇](https://www.onoffmix.com/event/89407) 
 
-[2019Langcon]https://songys.github.io/2019LangCon/           
+[2019Langcon](https://songys.github.io/2019LangCon/)           
 >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oSpBGJY4ZW0hBDW6wd_a8gG)       
               
 [2020Langcon](https://songys.github.io/2020LangconOnOff/)    
