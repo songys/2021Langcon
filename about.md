@@ -11,7 +11,7 @@ permalink: /about/
 
 |번호|발표 유형|이름|소속|제목|발표 자료|
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
-|1|오거나이저|송영숙![송영숙](./pic/song.png)|경희대학교|밀려오는 자연어 데이터 파도 타기|발표자료|
+|1|오거나이저|송영숙![송영숙](./pic/song.jpg)|경희대학교|밀려오는 자연어 데이터 파도 타기|발표자료|
 |2|스피커|문상환![문상환](./pic/mun.png)|Tokyo Institute of Technology 정보이공학원|한국어 토크나이징의 현재와 미래|발표자료|
 |3|스피커|문지형![문지형](./pic/jh.jpg)|UPSTAGE|Korean Language understanding Evaluation(KLUE) Benchmark|발표 자료|
 |4|스피커|송치성![송치성](./pic/chisong.jpg)|NCSOFT|말로 하는 감정 인식|발표 자료|          
