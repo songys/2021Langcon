@@ -15,7 +15,7 @@ layout: home
 #  2021/8/28(토)                             
                        
      
- <img src="./pic/time.png" width="800"><BR>                     
+ <img src="./pic/timetable.png" width="800"><BR>                     
 
 # 온라인 모임
 참여 신청하신 분들께 메일을 통해 줌 링크 또는 유튜브 라이브 링크를 전달드릴 예정입니다.         
@@ -34,8 +34,8 @@ layout: home
 [2020Langcon](https://songys.github.io/2020LangconOnOff/)    
 >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)       
 
-# 질문이 있으시면 다음 링크를 이용해 주세요.
-https://forms.gle/BjqLLcLKsC4GUPzq6
+# 질문은 이 [링크](https://forms.gle/BjqLLcLKsC4GUPzq6)를 클릭해 주세요.
+
 
 # 후원                       
 
