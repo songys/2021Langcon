@@ -12,13 +12,13 @@ layout: home
 
 
 
-#  2021/8/25(토)                             
+#  2021/8/28(토)                             
                        
      
- <img src="./pic/timetable.png" width="800"><BR>                     
+ <img src="./pic/time.png" width="800"><BR>                     
 
 # 온라인 모임
-참여 신청하신 분들께 줌 링크 또는 유튜브 라이브 링크를 전달드릴 예정입니다.         
+참여 신청하신 분들께 메일을 통해 줌 링크 또는 유튜브 라이브 링크를 전달드릴 예정입니다.         
 
 
 # 지난 대회 보기          
@@ -32,6 +32,7 @@ layout: home
 
 
 # 질문이 있으시면 다음 링크를 이용해 주세요.
+https://forms.gle/BjqLLcLKsC4GUPzq6
 
 # 후원                       
 
