@@ -15,7 +15,7 @@ layout: home
 #  2021/8/28(토)                             
                        
      
- <img src="./pic/time.png" width="800"><BR>                     
+ <img src="./pic/schedule.png" width="800"><BR>                     
 
 # 온라인 모임
 참여 신청하신 분들께 메일을 통해 줌 링크 또는 유튜브 라이브 링크를 전달드릴 예정입니다.         
