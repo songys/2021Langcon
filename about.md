@@ -16,11 +16,12 @@ permalink: /about/
 |3|스피커|문지형![문지형](./pic/jh.jpg)|UPSTAGE|Korean Language understanding Evaluation(KLUE) Benchmark|발표 자료|
 |4|스피커|송치성![송치성](./pic/chisong.jpg)|NCSOFT|말로 하는 감정 인식|발표 자료|          
 |5|스피커|조원익![조원익](./pic/WarnikChow.jpg)|서울대학교 전기정보공학부|kosp2e – 공개 가능한 한국어 음성 번역 코퍼스 구축기|[발표 자료](./data/kosp2e.pdf)|          
-|6|스피커|김성동![김성동](./pic/sdong.jpg)|NAVER AI|Scalable Dialogue System|발표 자료|            
+|6|스피커|김성동![김성동](./pic/sungdong.png)|NAVER AI|Scalable Dialogue System|발표 자료|            
 |7|스피커|박성준![박성준](./pic/sjun.png)|KAIST 전산학부|Natural Language Processing for Computational Psychotherapic Applications|발표 자료|        
 |8|스피커|김수환![김수환](./pic/suh.png)|TUNiB|한국어 음성 인식 : KoSpeech 개발기부터 OpenSpeech 개발기까지|발표 자료|            
 |9|스피커|고현웅![고현웅](./pic/go.png)|TUNiB|Parallelformers: 빅모델 배포를 향한 여정|발표 자료|         
-|10|튜토리얼|박조은![박조은](./pic/joeun.jpg)|오늘코드|연합뉴스 타이틀 주제 분류|발표 자료|          
+|10|튜토리얼|박조은![박조은](./pic/joeun.jpg)|오늘코드|연합뉴스 타이틀 주제 분류|발표 자료|   
+|11|튜토리얼|김지은![김지은](./pic/jieun.pg)|-|연합뉴스 타이틀 주제 분류|발표 자료|        
        
 
 
