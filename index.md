@@ -37,6 +37,9 @@ layout: home
 # 질문을 남기시려면 이 [링크](https://forms.gle/BjqLLcLKsC4GUPzq6)를 클릭해 주세요.
 
 
+# 참여방법 : 튜토리얼 세션은 참여 신청해 주신 이메일을 통해 줌 링크와 슬랙 링크 등을 전달해 드립니다.      
+           [발표세션은 이 링크((https://youtu.be/Jzez288qOaI))에서 유튜브 온라인 생중계됩니다.
+
 # 후원                       
 
 [Open Up](https://www.oss.kr/oss_intro)            
