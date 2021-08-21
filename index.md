@@ -37,7 +37,7 @@ layout: home
 ## 질문을 남기시려면 이 [링크](https://forms.gle/BjqLLcLKsC4GUPzq6)를 클릭해 주세요.
 
 
-## 참여방법 : https://festa.io/events/1747 에서 참여신청해 주신 분들께 이메일을 통해 줌 링크를 전달해 드립니다. 발표세션 1은 [이 링크](https://youtu.be/Jzez288qOaI)를 통해 유튜브 온라인 생중계됩니다.     
+## 참여방법 : [festa.io](https://festa.io/events/1747) 에서 참여신청해 주신 분들께 이메일을 통해 줌 링크를 전달해 드립니다. 발표세션 1은 [이 링크](https://youtu.be/Jzez288qOaI)를 통해 유튜브 라이브 스트리밍으로 보실 수 있습니다.     
 
 # 후원                       
 
