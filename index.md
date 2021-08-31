@@ -41,9 +41,9 @@ layout: home
 
 # 후원                       
 
-[Open Up](https://www.oss.kr/oss_intro)            
+NIPA 정보통신산업진흥원            
 
-<img src="./pic/open.png" width="600"><BR>
+<img src="./pic/nipa.png" width="600"><BR>
 
 
 
