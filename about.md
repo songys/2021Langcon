@@ -12,7 +12,7 @@ permalink: /about/
 |번호|발표 유형|이름|소속|제목|발표 소개 및 자료|
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |1|오거나이저|송영숙![송영숙](./pic/song.jpg)|경희대학교|밀려오는 자연어 데이터 파도 타기|자연어처리에 진입하는 사람들을 위해 필요한 데이터 및 강의, 서적 등에 대한 소개와 경험 공유|[발표 자료](./data/song_langcon.pdf),[발표 영상](https://www.youtube.com/watch?v=Rl51bXAa6rY&list=PLqkITFr6P-oTd4YenELiGHcKSBdgVaC0L0)|
-|2|스피커|문상환![문상환](./pic/mun.png)|Tokyo Institute of Technology 정보이공학원|한국어 토크나이징의 현재와 미래|-|[발표자료](./data/langcon2021_tokenization.pdf)| 
+|2|스피커|문상환![문상환](./pic/mun.png)|Tokyo Institute of Technology 정보이공학원|한국어 토크나이징의 현재와 미래|-|[발표자료](./data/langcon2021_tokenization.pdf), [발표 영상]( https://www.youtube.com/watch?v=gbvxe9LdaQk)| 
 |3|스피커|문지형![문지형](./pic/jh.jpg)|UPSTAGE|Korean Language understanding Evaluation(KLUE) Benchmark|-|[발표자료](./data/[LangCon2021]KLUE_jihyung.pdf),[발표 영상](https://www.youtube.com/watch?v=HQUp99P6vyA)| 
 |4|스피커|송치성![송치성](./pic/chisong.jpg)|바벨피쉬|말로 하는 감정 인식|-|[발표 자료](./data/emotion.pdf),[발표 영상](https://www.youtube.com/watch?v=Ec7HL2kZBSk&t=1237s)|   
 |5|스피커|조원익![조원익](./pic/WarnikChow.jpg)|서울대학교 전기정보공학부|kosp2e – 공개 가능한 한국어 음성 번역 코퍼스 구축기|현재 음성 번역 연구는 대부분 영어 및 인구어 중심의 음성을 기준으로 하여 진행되고 있고, 한국어는 주로 번역 대상 텍스트로 등장한다. 하지만 한국어의 음성을 다른 언어로 번역해야 하는 상황 역시 존재하며, 비디오 번역 혹은 여행 동시통역 등을 위해서는 그러한 시스템이 더욱 요구된다. 이러한 필요성에 따라 한국어의 음성 번역을 학습 및 평가할 수 있는 데이터셋을 제작하게 되었고, 이를 공개 가능하게 만드는 과정에서 느낀 점들을 공유한다.|[발표 자료](./data/kosp2e.pdf),[발표 영상](https://www.youtube.com/watch?v=Qm8XOjzRMm0)|          
